@@ -42,4 +42,4 @@ https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-7
 
 
 
-![image](https://github.com/wasimhassanshah/Equity-Research-Analysis-Chatbot/blob/main/Chatbot%20pic.jpg)
+![image](https://github.com/wasimhassanshah/Equity-Research-Analysis-Chatbot/blob/main/Financial_chatbot.JPG)
